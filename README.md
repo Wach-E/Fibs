@@ -1,2 +1,1 @@
-Testing to see this output
-What do you think about this?
+Testing to see this output. What do you think about this?
